@@ -1,0 +1,20 @@
+{
+  "name": "hangman-game-final",
+  "version": "1.0.0",
+  "description": "hangman game using constructors and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgrabarczyk/hangman-game-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgrabarczyk/hangman-game-final/issues"
+  },
+  "homepage": "https://github.com/lgrabarczyk/hangman-game-final#readme"
+}
